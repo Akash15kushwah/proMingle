@@ -1,0 +1,186 @@
+{
+  "posts": [
+    {
+      "title": "akash kushwah",
+      "body": "abhishek",
+      "id": "b168"
+    },
+    {
+      "id": "317a",
+      "title": "rahul",
+      "body": "ajay kushwah"
+    },
+    {
+      "id": "e909",
+      "title": "akash",
+      "body": "kushwah"
+    },
+    {
+      "id": "3f07",
+      "title": "hello",
+      "body": "hello"
+    },
+    {
+      "id": "d865",
+      "title": "akashhhh",
+      "body": "bhopalllllll"
+    },
+    {
+      "id": "545d",
+      "title": "abhishek",
+      "body": "sahu"
+    },
+    {
+      "id": "19c6",
+      "title": "rahul",
+      "body": "sahuhhuu"
+    },
+    {
+      "id": "9735",
+      "title": "vikash",
+      "body": "yadav"
+    },
+    {
+      "id": "a75e",
+      "title": "hello",
+      "body": "body"
+    },
+    {
+      "title": "abhishek",
+      "body": "kushwah",
+      "id": "8b09"
+    },
+    {
+      "id": "c9cf",
+      "title": "",
+      "body": ""
+    },
+    {
+      "id": "d0bd",
+      "title": "akasj",
+      "body": "jddjdsdfsd"
+    },
+    {
+      "id": "2342",
+      "title": "akasj",
+      "body": "jddjdsdfsd"
+    }
+  ],
+  "users": [
+    {
+      "id": "628d",
+      "username": "ajskasdka",
+      "email": "itsaakash14@gmail.com",
+      "password": "111111",
+      "confirmPassword": "111111",
+      "number": "11112121212",
+      "gender": "female"
+    },
+    {
+      "id": "14b6",
+      "username": "ajskasdka",
+      "email": "itsaakash14@gmail.com",
+      "password": "111111",
+      "confirmPassword": "111111",
+      "number": "11112121212",
+      "gender": "female"
+    },
+    {
+      "id": "512b",
+      "username": "ajskasdka",
+      "email": "itsaakash14@gmail.com",
+      "password": "111111",
+      "confirmPassword": "111111",
+      "number": "11112121212",
+      "gender": "female"
+    },
+    {
+      "id": "ebc5",
+      "username": "akash",
+      "email": "itsaakash12@gmail.com",
+      "password": "0111",
+      "confirmPassword": "1111",
+      "number": "1234567890",
+      "gender": "male"
+    },
+    {
+      "id": "ebc7",
+      "username": "akash",
+      "email": "itsaakash11@gmail.com",
+      "password": "1911",
+      "confirmPassword": "1111",
+      "number": "1234567890",
+      "gender": "male"
+    },
+    {
+      "token": "5094",
+      "id": "ebc6",
+      "username": "akash",
+      "email": "itsaakash15@gmail.com",
+      "password": "1111",
+      "confirmPassword": "1111",
+      "number": "1234567890",
+      "gender": "male"
+    },
+    {
+      "id": "7353",
+      "username": "rahul",
+      "email": "itsaakash12@gmail.com",
+      "password": "1111",
+      "confirmPassword": "1111",
+      "number": "1234567890",
+      "gender": "male"
+    },
+    {
+      "id": "723a",
+      "username": "ajay",
+      "email": "ajay@gmail.com",
+      "password": "12345",
+      "confirmPassword": "12345",
+      "number": "6543456789",
+      "gender": "male"
+    },
+    {
+      "id": "6162",
+      "username": "ajskasdka",
+      "email": "itsaakash12@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "number": "6264271357",
+      "gender": "male",
+      "token": "5294"
+    },
+    {
+      "id": "b62c",
+      "username": "rahul ",
+      "email": "akash@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "number": "6264271357",
+      "gender": "male",
+      "token": "5244"
+    },
+    {
+      "id": "79fe",
+      "username": "rahul ",
+      "email": "akash@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "number": "6264271357",
+      "gender": "male",
+      "token": "5277"
+
+    },
+    {
+      "token": "5264",
+      "id": "9218",
+      "username": "rahul k",
+      "email": "akash@gmail.com",
+      "password": "12345678",
+      "confirmPassword": "12345678",
+      "number": "6264271357",
+      "gender": "male"
+    }
+   
+  ]
+}
